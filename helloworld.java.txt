@@ -1,0 +1,4 @@
+Enter the first number:5
+Enter the operator(+,-,*,/):+
+Enter the second number:7
+12.0
